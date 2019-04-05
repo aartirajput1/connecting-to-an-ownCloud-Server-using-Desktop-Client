@@ -27,10 +27,11 @@ Once you have installed the ownCloud Desktop Synchronization Client on your oper
 
     ![4 3](https://user-images.githubusercontent.com/40832072/55616484-8b54e200-57af-11e9-98c0-06c14d60fd18.png)  
         
-5. Click the _Connect_ button. The ownCloud Desktop Synchronization Client will attempt to connect to your ownCloud server. Once            connected, you will see two buttons:  
- * Open ownCloud in Browser  
- * Open Local Folder  
-
+5. Click the _Connect_ button. The ownCloud Desktop Synchronization Client will attempt to connect to your ownCloud server. 
+   Once connected, you will see two buttons:
+    * Open ownCloud in Browser
+    * Open Local Folder
+            
    Choose the button where you want to synchronize your files. Then click the _Finish_ button, and you are all done.  
 
    ![4 4](https://user-images.githubusercontent.com/40832072/55616489-8e4fd280-57af-11e9-8b66-7aaabb7d25f5.png)
