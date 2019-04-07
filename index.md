@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "user accounts"
+permalink: /desktop/
+---
+
 ## Connecting to an ownCloud server using Desktop client
 
 ### Overview
